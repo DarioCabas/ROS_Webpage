@@ -2,12 +2,12 @@
 _This is a short description about the content of my proyect. In this project I create a interface using_ **_ROSBridge server_** _and make some basic communication using a simple web page that I make in html adding styles to the web ROS page using._
 
 ## Table of contents
-* [Getting Started](#getting-started)
-* [Prerequisites](#prerequisites)
-* [Installing](#installing)
+* [Getting Started](#Getting-Started)
+* [Prerequisites](#Prerequisites)
+  * [Installing](#Installing)
 * [Running the tests](#running-the-tests)
-* [Break down into end to end tests](#break-down-into-end-to-end-tests)
-* [And coding style tests](#and-coding-style-tests)
+  * [Break down into end to end tests](#break-down-into-end-to-end-tests)
+  * [And coding style tests](#and-coding-style-tests)
 * [Deployment](#deployment)
 * [Built With](#built-With)
 * [Contributing](#contributing)
@@ -90,19 +90,20 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors ✒️
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Dario Cabascango** - *Initial work* - [ROS_Webpage](https://github.com/DarioCabas)
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Dario Cabascango  - hz-hertzio@hotmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/DarioCabas/ROS_Webpage](https://github.com/DarioCabas/ROS_Webpage)
 
 ## Acknowledgments🎁 
 
