@@ -21,7 +21,7 @@ _This is a short description about the content of my proyect. In this project I 
 ## Getting Started 🚀
 
 
-_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system._
+_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See_ **_Deployment_** _for notes on how to deploy the project ._
 
 
 ## Prerequisites :clipboard:
@@ -76,9 +76,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With 🛠️
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [ROS Melodic Morenia](http://wiki.ros.org/melodic) - The robot framework used
+* [Bootstrap](https://getbootstrap.com/) - Template starter page
+* [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework 
 
 ## Contributing 🖇️
 
