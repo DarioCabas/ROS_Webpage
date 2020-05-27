@@ -15,16 +15,16 @@ _This is a short description about the content of my proyect. In this project I 
 * [Authors](#authors)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgments](#acknowledgments)
+* [Acknowledgments](#acknowledgments )
 
 
-## Getting Started 🚀
+## Getting Started🚀
 
 
 _These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See_ **_Deployment_** _for notes on how to deploy the project ._
 
 
-## Prerequisites :clipboard:
+## Prerequisites:clipboard:
 
 _What things you need to install the software and how to install them_
 
@@ -32,7 +32,7 @@ _What things you need to install the software and how to install them_
 Give examples
 ```
 
-### Installing 🔧
+### Installing🔧
 
 A step by step series of examples that tell you how to get a development env running
 
