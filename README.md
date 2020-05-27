@@ -70,36 +70,36 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment 📦
+## Deployment📦
 
 Add additional notes about how to deploy this on a live system
 
-## Built With 🛠️
+## Built With🛠️
 
 * [ROS Melodic Morenia](http://wiki.ros.org/melodic) - The robot framework used
 * [Bootstrap](https://getbootstrap.com/) - Template starter page
 * [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework 
 
-## Contributing 🖇️
+## Contributing🖇️
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning 📌
+## Versioning📌
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors ✒️
+## Authors✒️
 
 * **Dario Cabascango** - *Initial work* - [ROS_Webpage](https://github.com/DarioCabas)
 
-## License 📄
+## License📄
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
 
-## Contact
+## Contact:e-mail:
 
 Dario Cabascango  - hz-hertzio@hotmail.com
 
