@@ -12,9 +12,10 @@
   <a href="https://github.com/DarioCabas/ROS_Webpage">
     <img src="https://lh3.googleusercontent.com/proxy/82M0XSttc2WCNOEhkk9hxXRaWMDVvxPcPr-CarQiwjisQ0CmVNvKhTGhKtCPSzLLyLbmBG8pnm2GB-lVDXqtfN-I8LqpVx93JnFkTCEgCZK5FUyaQe4" alt="Logo" width="80" height="80">
   </a>
-
+</p>
 
 # WEB INTERFACE FOR ROS 
+
 _This is a short description about the content of my proyect. In this project I create an interface using a web page trough  HyperText Markup Language (HTML) and using some basic communication between the page and the robot that I made in RVIZ that is a 3D visualization tool for ROS. The objetive is control a two wheeled robot with the page web interface._
 
 ## Table of contents
@@ -42,7 +43,7 @@ _These instructions will get you a copy of the project up and running on your lo
 
 ## Prerequisites:clipboard:
 
-_You need to install all packages of_ **_ROS Melodic_** _and in the same way you need to use the_ **_Rosbridge server_**_for enabled the communication so you need a mobile robot or in another case visit my another repository to use mine, you can find it in the next link:_
+_You need to install all packages of_ **_ROS Melodic_** _and in the same way you need to use the_ **_Rosbridge server_** _for enabled the communication so you need a mobile robot or in another case visit my another repository to use mine, you can find it in the next link:_
 
 
 https://github.com/DarioCabas/2wheel_robot
@@ -59,17 +60,24 @@ https://github.com/DarioCabas/2wheel_robot
 - Create a virtual environment for Python 3:
 
 ```
-until finished
+
+virtualenv venv --python=python3
+
+source venv/bin/activate
+
 ```
+
 - Run the webserver for static pages:
 
 ```
-until finished
+cd ros_webpage
+
+python -m http.server
 ```
 - Run ROSBridge Websocket Server:
 
 ```
-until finished
+roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
 
