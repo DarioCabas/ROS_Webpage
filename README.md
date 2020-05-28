@@ -23,16 +23,12 @@ _This is a short description about the content of my proyect. In this project I 
 * [Prerequisites](#Prerequisites)
   * [Installing](#Installing)
 * [Running the tests](#running-the-tests)
-  * [Break down into end to end tests](#break-down-into-end-to-end-tests)
-  * [And coding style tests](#and-coding-style-tests)
 * [Deployment](#deployment)
 * [Built With](#built-With)
-* [Contributing](#contributing)
-* [Versioning](#versioning)
 * [Authors](#authors)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgments](#acknowledgments )
+
 
 
 ## Getting Started🚀
@@ -53,49 +49,35 @@ https://github.com/DarioCabas/2wheel_robot
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/DarioCabas/ROS_Webpage`
+- _Clone this repo to your local machine using_ `https://github.com/DarioCabas/ROS_Webpage`
 
 #### Setup
 
-- Create a virtual environment for Python 3:
+- _Create a virtual environment for Python 3:_
 
 ```
 
-virtualenv venv --python=python3
-
-source venv/bin/activate
-
-```
-
-- Run the webserver for static pages:
+  virtualenv venv --python=python3
+  source venv/bin/activate
 
 ```
-cd ros_webpage
+
+- _Run the webserver for static pages:_
+
+```
+cd ROS_webpage
 
 python -m http.server
 ```
-- Run ROSBridge Websocket Server:
+- _Run ROSBridge Websocket Server:_
 
 ```
 roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
-
 ## Running the tests ⚙️
 
 Explain how to run the automated tests for this system
-
-### Break down into end to end tests 🔩
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests ⌨️
-
-Explain what these tests test and why
 
 ```
 Give an example
@@ -112,14 +94,6 @@ Add additional notes about how to deploy this on a live system
 * [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework 
 * [Gazebo](http://gazebosim.org/tutorials?tut=ros_overview) - Simulator
 
-## Contributing🖇️
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning📌
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors✒️
 
 * **Dario Cabascango** - *Initial work* - [ROS_Webpage](https://github.com/DarioCabas)
@@ -131,15 +105,14 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
 
-## Contact:e-mail:
+## Contact:e-mail: 
 
-Dario Cabascango  - hz-hertzio@hotmail.com
+##### Feel free to contact me!
+
+Dario Cabascango  - hz-hertzio@hotmail.com 
 
 Project Link: [https://github.com/DarioCabas/ROS_Webpage](https://github.com/DarioCabas/ROS_Webpage)
 
-## Acknowledgments🎁 
-
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
