@@ -5,9 +5,17 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- PROJECT LOGO -->
+
+<br />
+<p align="center">
+  <a href="https://github.com/DarioCabas/ROS_Webpage">
+    <img src="https://lh3.googleusercontent.com/proxy/82M0XSttc2WCNOEhkk9hxXRaWMDVvxPcPr-CarQiwjisQ0CmVNvKhTGhKtCPSzLLyLbmBG8pnm2GB-lVDXqtfN-I8LqpVx93JnFkTCEgCZK5FUyaQe4" alt="Logo" width="80" height="80">
+  </a>
+
 
 # WEB INTERFACE FOR ROS 
-_This is a short description about the content of my proyect. In this project I create a interface using_ **_ROSBridge server_** _and make some basic communication using a simple web page that I make in html adding styles to the web ROS page using._
+_This is a short description about the content of my proyect. In this project I create an interface using a web page trough  HyperText Markup Language (HTML) and using some basic communication between the page and the robot that I made in RVIZ that is a 3D visualization tool for ROS. The objetive is control a two wheeled robot with the page web interface._
 
 ## Table of contents
 * [Getting Started](#Getting-Started)
@@ -34,29 +42,36 @@ _These instructions will get you a copy of the project up and running on your lo
 
 ## Prerequisites:clipboard:
 
-_What things you need to install the software and how to install them_
+_You need to install all packages of_ **_ROS Melodic_** _and in the same way you need to use the_ **_Rosbridge server_**_for enabled the communication so you need a mobile robot or in another case visit my another repository to use mine, you can find it in the next link:_
 
-```
-Give examples
-```
+
+https://github.com/DarioCabas/2wheel_robot
+
 
 ### Installing🔧
 
-A step by step series of examples that tell you how to get a development env running
+#### Clone
 
-Say what the step will be
+- Clone this repo to your local machine using `https://github.com/DarioCabas/ROS_Webpage`
+
+#### Setup
+
+- Create a virtual environment for Python 3:
 
 ```
-Give the example
+until finished
 ```
+- Run the webserver for static pages:
 
-And repeat
+```
+until finished
+```
+- Run ROSBridge Websocket Server:
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests ⚙️
 
@@ -87,6 +102,7 @@ Add additional notes about how to deploy this on a live system
 * [ROS Melodic Morenia](http://wiki.ros.org/melodic) - The robot framework used
 * [Bootstrap](https://getbootstrap.com/) - Template starter page
 * [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework 
+* [Gazebo](http://gazebosim.org/tutorials?tut=ros_overview) - Simulator
 
 ## Contributing🖇️
 
