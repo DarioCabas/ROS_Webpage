@@ -56,18 +56,15 @@ https://github.com/DarioCabas/2wheel_robot
 - _Create a virtual environment for Python 3:_
 
 ```
-
   virtualenv venv --python=python3
   source venv/bin/activate
-
 ```
 
 - _Run the webserver for static pages:_
 
 ```
-cd ROS_webpage
-
-python -m http.server
+  cd ROS_webpage
+  python -m http.server
 ```
 - _Run ROSBridge Websocket Server:_
 
