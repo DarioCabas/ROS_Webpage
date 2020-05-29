@@ -79,6 +79,9 @@ Explain how to run the automated tests for this system
 ```
 Give an example
 ```
+**Run Web Server**
+
+![Recordit GIF](http://g.recordit.co/Bep26ht7lG.gif)
 
 ## Deployment📦
 
