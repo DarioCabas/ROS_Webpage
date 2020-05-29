@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DarioCabas/ROS_Webpage">
-    <img src="https://lh3.googleusercontent.com/proxy/82M0XSttc2WCNOEhkk9hxXRaWMDVvxPcPr-CarQiwjisQ0CmVNvKhTGhKtCPSzLLyLbmBG8pnm2GB-lVDXqtfN-I8LqpVx93JnFkTCEgCZK5FUyaQe4" alt="Logo" width="80" height="80">
+    <img src="https://imageog.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Logo" width="150" height="80"
   </a>
 </p>
 
