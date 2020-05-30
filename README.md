@@ -88,7 +88,11 @@ roslaunch rosbridge_server rosbridge_websocket.launch
 
 ## Deployment📦
 
-Add additional notes about how to deploy this on a live system
+_Don't forget to create a environment for python3 when you clone for the first time , because in that environment runs the web server, with the next command you can create: _
+
+```
+  virtualenv venv --python=python3
+```
 
 ## Built With🛠️
 
