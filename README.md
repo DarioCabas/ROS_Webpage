@@ -74,14 +74,17 @@ roslaunch rosbridge_server rosbridge_websocket.launch
 
 ## Running the tests ⚙️
 
-Explain how to run the automated tests for this system
-
-```
-Give an example
-```
 **Run Web Server**
 
 ![Recordit GIF](http://g.recordit.co/Bep26ht7lG.gif)
+
+**Run Two Wheel Robot**
+
+![Recordit GIF](http://g.recordit.co/x7LbwonQLx.gif)
+
+**Testing the interface with the robot**
+
+![](http://g.recordit.co/0793U2lxJ2.gif)
 
 ## Deployment📦
 
