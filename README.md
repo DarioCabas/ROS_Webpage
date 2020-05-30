@@ -82,9 +82,9 @@ roslaunch rosbridge_server rosbridge_websocket.launch
 
 ![Recordit GIF](http://g.recordit.co/x7LbwonQLx.gif)
 
-**Testing the interface with the robot**
+**Interface with the robot**
 
-![](http://g.recordit.co/0793U2lxJ2.gif)
+![](https://im4.ezgif.com/tmp/ezgif-4-af25e940a0d7.gif)
 
 ## Deployment📦
 
