@@ -84,7 +84,7 @@ roslaunch rosbridge_server rosbridge_websocket.launch
 
 **Interface with the robot**
 
-![](https://im4.ezgif.com/tmp/ezgif-4-af25e940a0d7.gif)
+![](http://g.recordit.co/tbF1pUjmaG.gif)
 
 ## Deployment📦
 
@@ -94,7 +94,7 @@ _Don't forget to create a environment for python3 when you clone for the first t
   virtualenv venv --python=python3
 ```
 <p align="center">
-  <img width="460" height="300" src="https://im4.ezgif.com/tmp/ezgif-4-c9215dd4f3e5.gif">
+  <img width="460" height="300" src="http://g.recordit.co/2nUa0jJUYk.gif">
 </p>
 
 ## Built With🛠️
