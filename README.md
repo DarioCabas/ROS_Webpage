@@ -94,7 +94,7 @@ _Don't forget to create a environment for python3 when you clone for the first t
   virtualenv venv --python=python3
 ```
 <p align="center">
-  <img width="600" height="200" src="http://g.recordit.co/2nUa0jJUYk.gif">
+  <img width="500" height="150" src="http://g.recordit.co/2nUa0jJUYk.gif">
 </p>
 
 ## Built With🛠️
