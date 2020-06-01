@@ -18,19 +18,6 @@
 
 _This is a short description about the content of my proyect. In this project I create an interface using a web page trough  HyperText Markup Language (HTML) and using some basic communication between the page and the robot that I made in RVIZ that is a 3D visualization tool for ROS. The objetive is control a two wheeled robot with the page web interface._
 
-## Table of contents
-* [Getting Started](#Getting-Started)
-* [Prerequisites](#Prerequisites)
-  * [Installing](#Installing)
-* [Running the tests](#running-the-tests)
-* [Deployment](#deployment)
-* [Built With](#built-With)
-* [Authors](#authors)
-* [License](#license)
-* [Contact](#contact)
-
-
-
 ## Getting Started🚀
 
 
